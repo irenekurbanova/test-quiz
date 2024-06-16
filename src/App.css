@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 2rem;
+  margin: 20px;
+  text-align: center;
+  border-radius: 17px;
+  box-shadow: 10px 4px 10px 0 rgba(0, 0, 0, 0.07);
+  background: #fff;
+}
